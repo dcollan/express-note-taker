@@ -41,6 +41,5 @@ Using Express.js, create an application that will first prompt the user to click
 2. CD into project directory
 3. Run project via code editor (e.g. Visual Studio Code)
 4. Open the terminal
-5. CD into 'Develop' folder
 5. Run 'npm install' to download all necessary dependencies
 6. Run 'npm start' and open localhost:3001 to view running application
